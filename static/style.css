@@ -6,12 +6,22 @@
 
 html, body {
     font-family: 'Moirai One';
-    background: #f3f3eb;
+    background: #000000;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
     font-size: 50px;
-    color: #e1e08d;
+    color: #b700ff;
 }
 
 th {
@@ -21,6 +31,6 @@ th {
 
 td {
     font-size: 20px;  
-    color:#f1e022;  
+    color:#8fff58;  
 }
 
